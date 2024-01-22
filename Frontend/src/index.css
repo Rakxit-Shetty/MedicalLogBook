@@ -157,6 +157,30 @@ body:has(.card[data-color="green"]:hover) {
   .left-250{
     left: 900px;
   }
+  .left-120{
+    left: 480px;
+  }
+  .top-260{
+    top: 1040px;
+  }
+  .left-110{
+    left: 440px;
+  }
+  .mb-100{
+    margin-bottom: 400px;
+  }
+  .ml-400{
+    margin-left: 1600px;
+  }
+  .left-445{
+    left: 1780px;
+  }
+  .left-85{
+    left: 20vw;
+  }
+  .h-60vh{
+    height: 60vh;
+  }
   /* .navbar{
     @apply bg-gray-300 overflow-hidden mt-35 fixed;
   }
